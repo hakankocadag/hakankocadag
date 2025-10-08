@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 I'm currently pursuing a Bachelor's degree in Software Engineering at Erciyes University.<br><br>Passionate about building impactful projects, I aim to combine my technical expertise, leadership experience, and academic foundation to contribute meaningfully to the communities I engage with.<br><br>I'm actively expanding my knowledge in software engineering - not only through university coursework, but also through personal projects and self-driven learning.<br><br>While I'm still exploring different areas within the field, I'm especially curious about where technology meets creativity, problem-solving, and real-world impact.
 
 
