@@ -21,7 +21,6 @@ This section is organized to clearly communicate my primary tools and languages.
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Other Tools** | (Add tools like Git, Docker, Spring Boot, etc. here as you learn them!) |
 
 ### 🗣 Languages Spoken
 Using proficiency labels provides clearer context to recruiters and collaborators.
