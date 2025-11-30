@@ -15,7 +15,6 @@ While I'm still exploring different areas within the field, I'm especially curio
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📊 Language Usage
-## 📊 Language Usage
 ![Python](https://img.shields.io/badge/Python-60%25-blue)
 ![Java](https://img.shields.io/badge/Java-30%25-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow)
