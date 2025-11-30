@@ -13,12 +13,14 @@ While I'm still exploring different areas within the field, I'm especially curio
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakankocadag&layout=donut&langs_count=5&theme=radical)
+
+## 📊 Language Usage
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakankocadag&layout=donut&langs_count=5&theme=default)
 
 ## 🗣 Languages
-![English](https://img.shields.io/badge/English-0072C6?style=for-the-badge&logo=flag-icon&logoColor=white)
 ![Turkish](https://img.shields.io/badge/Turkish-FF0000?style=for-the-badge&logo=flag-icon&logoColor=white) 
 ![Dutch](https://img.shields.io/badge/Dutch-21468B?style=for-the-badge&logo=flag-icon&logoColor=white) 
+![English](https://img.shields.io/badge/English-0072C6?style=for-the-badge&logo=flag-icon&logoColor=white)
 
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=hakankocadag&theme=default&hide_border=false)<br/>
