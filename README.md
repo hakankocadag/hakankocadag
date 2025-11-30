@@ -22,3 +22,7 @@ While I'm still exploring different areas within the field, I'm especially curio
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=hakankocadag&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakankocadag&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Python](https://img.shields.io/badge/Python-60%25-blue)
+![Java](https://img.shields.io/badge/Java-30%25-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow)
