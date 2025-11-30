@@ -1,29 +1,38 @@
-# 💫 About Me
-I'm currently pursuing a Bachelor's degree in Software Engineering at Erciyes University.<br><br>
-Passionate about building impactful projects, I aim to combine my technical expertise, leadership experience, and academic foundation to contribute meaningfully to the communities I engage with.<br><br>
-I'm actively expanding my knowledge in software engineering - not only through university coursework, but also through personal projects and self-driven learning.<br><br>
-While I'm still exploring different areas within the field, I'm especially curious about where technology meets creativity, problem-solving, and real-world impact.
+# 👋 Hi, I'm Hakan!
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hakankocadag_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hakankocadag) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HakanKocadag_) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hakankocadag038@gmail.com) 
+---
 
-## 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 💫 About Me
+I'm a **Software Engineering student** at Erciyes University, currently focused on **building impactful projects** and leveraging my technical foundation.
 
-## 📊 Language Usage
-![Python](https://img.shields.io/badge/Python-60%25-blue)
-![Java](https://img.shields.io/badge/Java-30%25-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow)
+I specialize in **Java** and **Python** and am actively diving into **Full-Stack Development** and modern frameworks like **Spring Boot** and **React**.
 
-## 🗣 Languages
-![Turkish](https://img.shields.io/badge/Turkish-FF0000?style=for-the-badge&logo=flag-icon&logoColor=white) 
-![Dutch](https://img.shields.io/badge/Dutch-21468B?style=for-the-badge&logo=flag-icon&logoColor=white) 
-![English](https://img.shields.io/badge/English-0072C6?style=for-the-badge&logo=flag-icon&logoColor=white)
+I am passionate about technology that drives **real-world impact** and am always open to **collaboration** and **internship opportunities**. Let's connect!
 
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=hakankocadag&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakankocadag&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 💻 My Core Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, JavaScript, SQL |
+| **Frameworks** | Spring Boot, React, Node.js |
+| **Tools/Other** | Git, Docker, IntelliJ, VS Code |
+
+*You can see my language distribution below.*
+
+### 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hakankocadag)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HakanKocadag_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hakankocadag_)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hakankocadag038@gmail.com)
+
+### 🗣 Languages
+* **Turkish:** Native
+* **Dutch:** Professional Working Proficiency
+* **English:** Conversational
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hakankocadag&theme=dark&hide_border=true" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakankocadag&theme=dark&hide_border=true&layout=compact" alt="Top Languages" width="49%"/>
+</p>
