@@ -15,7 +15,7 @@ While I'm still exploring different areas within the field, I'm especially curio
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📊 Language Usage
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakankocadag&layout=donut&langs_count=5&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakankocadag&layout=donut&langs_count=5&theme=default&count_private=true)
 
 ## 🗣 Languages
 ![Turkish](https://img.shields.io/badge/Turkish-FF0000?style=for-the-badge&logo=flag-icon&logoColor=white) 
