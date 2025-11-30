@@ -8,7 +8,7 @@ I am a **Software Engineering student** at Erciyes University, passionate about 
 
 I am eager to **expand my knowledge** in software engineering and beyond through personal projects and self-driven learning. I am particularly curious about where technology intersects with **creativity, efficient problem-solving, and real-world impact**.  
 
-Currently, I am exploring areas like **machine learning, deep learning, artificial intelligence, and computational neuroscience**, aiming to develop skills that allow me to create innovative and meaningful solutions.
+Currently, I am eager to explore areas like **machine learning, deep learning, artificial intelligence, and computational neuroscience**, aiming to develop skills that allow me to create innovative and meaningful solutions.
 
 
 ### 🌐 Let's Connect
