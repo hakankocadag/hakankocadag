@@ -3,9 +3,13 @@
 ---
 
 ### 💫 About Me
-I am a **Software Engineering student** at Erciyes University, focused on **building impactful projects** by leveraging technical expertise, leadership skills, and a strong academic foundation.
 
-I'm currently expanding my knowledge in the wider field of software engineering through personal projects and self-driven learning. I am especially curious about where technology intersects with **creativity, efficient problem-solving, and measurable real-world impact**.
+I am a **Software Engineering student** at Erciyes University, passionate about **building impactful projects** by combining technical expertise, leadership skills, and a strong academic foundation.  
+
+I am eager to **expand my knowledge** in software engineering and beyond through personal projects and self-driven learning. I am particularly curious about where technology intersects with **creativity, efficient problem-solving, and real-world impact**.  
+
+Currently, I am exploring areas like **machine learning, deep learning, artificial intelligence, and computational neuroscience**, aiming to develop skills that allow me to create innovative and meaningful solutions.
+
 
 ### 🌐 Let's Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hakankocadag_) 
