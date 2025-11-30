@@ -23,7 +23,6 @@ This section is organized to clearly communicate my primary tools and languages.
 | **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 ### 🗣 Languages Spoken
-Using proficiency labels provides clearer context to recruiters and collaborators.
 
 * **Turkish**
 * **Dutch** 
@@ -32,6 +31,5 @@ Using proficiency labels provides clearer context to recruiters and collaborator
 ---
 
 ### 📊 GitHub Activity
-*The Top Languages chart has been removed and the theme for the Streak Stats has been set to white (`light`) as requested.*
 
 ![](https://nirzak-streak-stats.vercel.app/?user=hakankocadag&theme=light&hide_border=false)
