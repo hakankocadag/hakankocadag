@@ -16,7 +16,6 @@ I'm currently expanding my knowledge in the wider field of software engineering 
 ---
 
 ### 💻 My Core Tech Stack
-This section is organized to clearly communicate my primary tools and languages.
 
 | Category | Skills |
 | :--- | :--- |
