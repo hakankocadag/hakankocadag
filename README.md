@@ -31,10 +31,4 @@ Currently, I am eager to explore areas like **machine learning, deep learning, a
 
 * **Turkish**
 * **Dutch** 
-* **English** 
-
----
-
-### 📊 GitHub Activity
-
-![](https://nirzak-streak-stats.vercel.app/?user=hakankocadag&theme=light&hide_border=true)
+* **English**
