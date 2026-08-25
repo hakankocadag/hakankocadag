@@ -47,5 +47,3 @@ Software Engineering student at **Erciyes University**, focused on building prac
 > Build systems that are efficient enough to run, simple enough to understand, and capable enough to matter.
 
 Current focus: efficient LLM inference on constrained hardware, local-first AI architectures, agentic systems and orchestration, and real-time AI infrastructure.
-
----
