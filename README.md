@@ -4,7 +4,7 @@
 
 ### Software Engineering Student · AI Systems Researcher · Builder
 
-Software Engineering student at **Erciyes University**, focused on building practical AI systems, autonomous agents, and high-performance backend infrastructure. Currently an **AI Innovators Intern at Microsoft** and **Co-Founder & Head of Research at CogitoLabs**, an independent AI research collective.
+Software Engineering student at **Erciyes University**, focused on building practical AI systems, autonomous agents, and high-performance backend infrastructure. Currently **Co-Founder & Head of Research at CogitoLabs**, an independent AI research collective.
 
 [![Microsoft](https://img.shields.io/badge/Microsoft-AI%20Innovators%20Intern-0078D4?style=flat-square&logo=microsoft&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
