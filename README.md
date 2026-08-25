@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hakan 
+# Hi, I'm Hakan! 
 
 ### Software Engineering Student · AI Systems Researcher · Builder
 
