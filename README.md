@@ -17,12 +17,12 @@ Software Engineering student at **Erciyes University**, focused on building prac
 
 ## About
 
-- 🎓 B.Sc. Software Engineering — Erciyes University
-- 🤖 Focused on AI systems, LLMs, RAG, autonomous agents, and intelligent infrastructure — turning research concepts into efficient, deployable systems
-- ⚙️ Experienced with asynchronous architectures, high-throughput backends, local AI inference, and data pipelines
-- 🔬 Co-Founder & Head of Research at CogitoLabs
-- ☁️ Leader of the AWS Student Builder Group · Founder of the Software Technologies Club at Erciyes University
-- 🌍 Turkish & Dutch (native/bilingual) · English (full professional proficiency)
+- B.Sc. Software Engineering - Erciyes University
+- Focused on AI systems, LLMs, RAG, autonomous agents, and intelligent infrastructure — turning research concepts into efficient, deployable systems
+- Experienced with asynchronous architectures, high-throughput backends, local AI inference, and data pipelines
+- Co-Founder & Head of Research at CogitoLabs
+- Leader of the AWS Student Builder Group · Founder of the Software Technologies Club at Erciyes University
+- Turkish & Dutch (native/bilingual) · English (full professional proficiency)
 
 ---
 
